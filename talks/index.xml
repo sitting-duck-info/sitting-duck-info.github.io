@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Sitting Duck Info</title>
-    <link>https://sittingduck.info/talks/</link>
+    <link>/talks/</link>
     <description>Recent content in Talks on Sitting Duck Info</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sittingduck.info/talks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Future Talk</title>
-      <link>https://sittingduck.info/talks/a-future-talk/</link>
+      <link>/talks/a-future-talk/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://sittingduck.info/talks/a-future-talk/</guid>
+      <guid>/talks/a-future-talk/</guid>
       <description>&lt;p&gt;Story&amp;rsquo;s talks pages can highlight upcoming appearances, promoting your talks
 before you present. This is a dummy page illustrating this capability.&lt;/p&gt;
 
@@ -27,10 +27,10 @@ site.&lt;/p&gt;</description>
     
     <item>
       <title>Creating Beautiful Presentations with Story</title>
-      <link>https://sittingduck.info/talks/adirondack/</link>
+      <link>/talks/adirondack/</link>
       <pubDate>Tue, 08 May 2018 16:00:00 -0500</pubDate>
       
-      <guid>https://sittingduck.info/talks/adirondack/</guid>
+      <guid>/talks/adirondack/</guid>
       <description>&lt;p&gt;This is a &amp;ldquo;talk&amp;rdquo; page in Story, which is the permanent homepage for a talk
 you&amp;rsquo;ve given at a specific event. It&amp;rsquo;s designed to showcase your appearance by
 bringing together information about the event, along with your slides and extra

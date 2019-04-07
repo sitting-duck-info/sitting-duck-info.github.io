@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sitting Duck Info </title>
-		<link>https://sittingduck.info/</link>
+		<link>/</link>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<author>Sitting Duck Info</author>
@@ -11,15 +11,15 @@
 		
 		<item>
 			<title>The Sitting Duck Info Story</title>
-			<link>https://sittingduck.info/about-us/</link>
+			<link>/about-us/</link>
 			<pubDate>Mon, 03 Sep 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/about-us/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/unsplash-photos-o-ubWHV29Uk.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/about-us/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/unsplash-photos-o-ubWHV29Uk.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;Many years ago, Sarah had a vision. She wanted the world to be more like
 a duck.&lt;/p&gt;
 
-&lt;p&gt;Along with her close friend, &lt;a href=&#34;https://sittingduck.info/authors/chuck-hannah&#34;&gt;Chuck Hannah&lt;/a&gt;, she
+&lt;p&gt;Along with her close friend, &lt;a href=&#34;/authors/chuck-hannah&#34;&gt;Chuck Hannah&lt;/a&gt;, she
 began building Sitting Duck Info.&lt;/p&gt;
 
 &lt;p&gt;Now the world is more like a duck.&lt;/p&gt;</description>
@@ -27,29 +27,29 @@ began building Sitting Duck Info.&lt;/p&gt;
 		
 		<item>
 			<title>Story&#39;s Theme Features</title>
-			<link>https://sittingduck.info/theme-features/</link>
+			<link>/theme-features/</link>
 			<pubDate>Sat, 01 Sep 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/theme-features/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/unsplash-photos-nehfi_SfqtU.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/theme-features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/unsplash-photos-nehfi_SfqtU.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;Story has a lot of features, but most are optional and have smart defaults!
 This page is an introduction to Story, with links to further pages that go into
 more details. There&amp;rsquo;s also a listing of features that either don&amp;rsquo;t need
 a separate documentation page, or just don&amp;rsquo;t have full documentation yet.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;Gorgeous, responsive typography on all devices and in print&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/images/&#34;&gt;Beautiful featured images and thumbnails&lt;/a&gt; (optional)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/images/&#34;&gt;Multiple layouts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/features&#34;&gt;Flexibility via feature toggles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/author-profiles&#34;&gt;Author profile pages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/slides/&#34;&gt;Remark browser-based presentation support&lt;/a&gt;, including CSS themes and multiple aspect ratios&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;Automatic table and image enhancements&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/images&#34;&gt;Advanced image styling features&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/math&#34;&gt;Mathematical equation typesetting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/music&#34;&gt;Formatting ABC music notation as sheet music&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/search-page&#34;&gt;Built-in search&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sittingduck.info/mailchimp-features&#34;&gt;MailChimp subscribe forms and RSS feeds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/typography&#34;&gt;Gorgeous, responsive typography on all devices and in print&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/images/&#34;&gt;Beautiful featured images and thumbnails&lt;/a&gt; (optional)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/images/&#34;&gt;Multiple layouts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/features&#34;&gt;Flexibility via feature toggles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/author-profiles&#34;&gt;Author profile pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/slides/&#34;&gt;Remark browser-based presentation support&lt;/a&gt;, including CSS themes and multiple aspect ratios&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/figures&#34;&gt;Automatic table and image enhancements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/images&#34;&gt;Advanced image styling features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/math&#34;&gt;Mathematical equation typesetting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/music&#34;&gt;Formatting ABC music notation as sheet music&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/search-page&#34;&gt;Built-in search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mailchimp-features&#34;&gt;MailChimp subscribe forms and RSS feeds&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Story also has support for the following, which aren&amp;rsquo;t extensively documented:&lt;/p&gt;
@@ -64,7 +64,7 @@ can put your content under &lt;code&gt;/posts/&lt;/code&gt;, &lt;code&gt;/blog/&
 place to put information about your presentations, including links to videos,
 the location, slides, and so on. &lt;code&gt;/talks/&lt;/code&gt; and &lt;code&gt;/slides/&lt;/code&gt; are the only two
 content types for which Story has special formatting and archetypes.&lt;/li&gt;
-&lt;li&gt;An archive listing page, which uses the &lt;code&gt;archives&lt;/code&gt; layout analogously to the &lt;a href=&#34;https://sittingduck.info/search-page&#34;&gt;search&lt;/a&gt; feature&lt;/li&gt;
+&lt;li&gt;An archive listing page, which uses the &lt;code&gt;archives&lt;/code&gt; layout analogously to the &lt;a href=&#34;/search-page&#34;&gt;search&lt;/a&gt; feature&lt;/li&gt;
 &lt;li&gt;404 error page&lt;/li&gt;
 &lt;li&gt;Social-media meta tags to make your content look great when shared on social
 media sites&lt;/li&gt;
@@ -79,16 +79,16 @@ your site&lt;/li&gt;
 &lt;li&gt;Custom content and social link menus with any content you want (not limited to predefined)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/features/&#34;&gt;Story&amp;rsquo;s feature flags&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/features/&#34;&gt;Story&amp;rsquo;s feature flags&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Story&#39;s Feature Flags</title>
-			<link>https://sittingduck.info/features/</link>
+			<link>/features/</link>
 			<pubDate>Thu, 30 Aug 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/features/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/unsplash-photos-QRkew0KwXSM.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/unsplash-photos-QRkew0KwXSM.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;Feature flags, which are called &lt;em&gt;classes&lt;/em&gt; in the markup, control many of Story&amp;rsquo;s features.
 You can enable and disable them in your site config, or in an individual post&amp;rsquo;s front matter.
 This article documents Story&amp;rsquo;s feature flags.&lt;/p&gt;
@@ -165,121 +165,121 @@ For brevity, the &lt;code&gt;feature-&lt;/code&gt; prefix is omitted, but all of
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/images&#34;&gt;3dbook-covers&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/images&#34;&gt;3dbook-covers&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Styles images to resemble a hardcover book&lt;/td&gt;
 &lt;td&gt;JS + CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;figcaption&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/figures&#34;&gt;figcaption&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Transforms images into captioned figures&lt;/td&gt;
 &lt;td&gt;JS + CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;figcaption-hidden&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/figures&#34;&gt;figcaption-hidden&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Hides figure captions, revealing them on mouseover&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;figcaption-visible&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/figures&#34;&gt;figcaption-visible&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Formats figure captions visibly&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;figlink&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/figures&#34;&gt;figlink&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Links text like &amp;ldquo;Figure/Table 3&amp;rdquo; to the corresponding figure or table&lt;/td&gt;
 &lt;td&gt;JS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;fignum&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/figures&#34;&gt;fignum&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Auto-numbers figures and tables&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;h3-cl&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;h3-cl&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Adds CSS &lt;code&gt;clear: left&lt;/code&gt; to all &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; tags&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;h3-cr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;h3-cr&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Adds CSS &lt;code&gt;clear: right&lt;/code&gt; to all &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; tags&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;h3-cb&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;h3-cb&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Adds CSS &lt;code&gt;clear: both&lt;/code&gt; to all &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; tags&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;highlight&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;highlight&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Applies syntax highlighting to code blocks, using HighlightJS&lt;/td&gt;
 &lt;td&gt;JS + CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;hrdinkus&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;hrdinkus&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Styles &lt;code&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; elements as a dinkus (three asterisks)&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;hrfleuron&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;hrfleuron&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Styles &lt;code&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; elements as a fleuron (&amp;#10086;)&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;hyphenate&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;hyphenate&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Enables line-breaks and hyphenation of text via the browser&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;justify&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;justify&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Aligns text with full-justification&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/math&#34;&gt;math&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/math&#34;&gt;math&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Enables LaTeX math typesetting using KaTeX&lt;/td&gt;
 &lt;td&gt;JS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/music&#34;&gt;music&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/music&#34;&gt;music&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Enables rendering abc notation as sheet music with abcjs&lt;/td&gt;
 &lt;td&gt;JS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/images/&#34;&gt;nohdr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/images/&#34;&gt;nohdr&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Disables header images locally; when applied globally, disables preview thumbnails in lists&lt;/td&gt;
 &lt;td&gt;Hugo&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;subtitle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;subtitle&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Enabled by default; disable to hide page subtitles&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;tablefig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/figures&#34;&gt;tablefig&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Styles tables similar to scientific papers&lt;/td&gt;
 &lt;td&gt;JS + CSS&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;tablefw&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/figures&#34;&gt;tablefw&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Sets table cells in a font with fixed-width numerals&lt;/td&gt;
 &lt;td&gt;CSS&lt;/td&gt;
 &lt;/tr&gt;
@@ -291,23 +291,23 @@ For brevity, the &lt;code&gt;feature-&lt;/code&gt; prefix is omitted, but all of
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://sittingduck.info/typography&#34;&gt;tweetquote&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/typography&#34;&gt;tweetquote&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Renders a blockquote in a simplistic tweet style, if it follows conventions&lt;/td&gt;
 &lt;td&gt;JS + CSS&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/author-profiles/&#34;&gt;Story&amp;rsquo;s author biographies&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/author-profiles/&#34;&gt;Story&amp;rsquo;s author biographies&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Story&#39;s Figures, Captions, and Tables</title>
-			<link>https://sittingduck.info/figures/</link>
+			<link>/figures/</link>
 			<pubDate>Wed, 22 Aug 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/figures/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/unsplash-photos-vHnVtLK8rCc.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/figures/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/unsplash-photos-vHnVtLK8rCc.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;Story can automatically transform images into figures with captions.
 It can also add captions to tables.
 And it adds features and styling to both images and tables.
@@ -330,7 +330,7 @@ _Water lily photo by Zoltan Tasi on Unsplash_
 &lt;p&gt;This markup results in a &lt;code&gt;&amp;lt;p&amp;gt;&amp;lt;img...&amp;gt;&amp;lt;em...&amp;gt;&amp;lt;/p&amp;gt;&lt;/code&gt; markup that Story converts into a captioned figure.
 Hover your mouse over the picture to see the caption:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://sittingduck.info/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34; /&gt;
 &lt;em&gt;Water lily photo by Zoltan Tasi on Unsplash&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;If there&amp;rsquo;s no &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; to use, Story uses the image&amp;rsquo;s &lt;code&gt;title&lt;/code&gt; attribute as a fallback:&lt;/p&gt;
@@ -338,14 +338,14 @@ Hover your mouse over the picture to see the caption:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-md&#34;&gt;![Water Lily](/img/unsplash-photos-vHnVtLK8rCc.jpg &amp;quot;A water lily&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://sittingduck.info/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34; title=&#34;A water lily&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34; title=&#34;A water lily&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Finally, Story falls back to the &lt;code&gt;alt&lt;/code&gt; attribute:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-md&#34;&gt;![Water Lily](/img/unsplash-photos-vHnVtLK8rCc.jpg)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://sittingduck.info/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;table-styling&#34;&gt;Table Styling&lt;/h3&gt;
 
@@ -623,17 +623,17 @@ $( &#34;#tablefw&#34; ).click(function() {
 });
 &lt;/script&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/images/&#34;&gt;Story&amp;rsquo;s image formatting features&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/images/&#34;&gt;Story&amp;rsquo;s image formatting features&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Story&#39;s Image Formatting Controls</title>
-			<link>https://sittingduck.info/images/</link>
+			<link>/images/</link>
 			<pubDate>Tue, 21 Aug 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/images/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
-			<description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s image-related features (other than &lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;figure captions&lt;/a&gt;).
+			<guid>/images/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s image-related features (other than &lt;a href=&#34;/figures&#34;&gt;figure captions&lt;/a&gt;).
 Story can apply a variety of stylistic and layout transformations to your images.
 These features are enabled by unobtrusive, accessibility-friendly tricks that give you more control over images than Markdown typically provides.
 Story also has out-of-the-box support for header and preview images, for a visually stunning site.&lt;/p&gt;
@@ -642,7 +642,7 @@ Story also has out-of-the-box support for header and preview images, for a visua
 
 &lt;p&gt;Story&amp;rsquo;s CSS automatically shrinks images to fit into the width of the article.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://sittingduck.info/img/default-header-img.jpg&#34; alt=&#34;Default header image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/default-header-img.jpg&#34; alt=&#34;Default header image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The image above is much wider than the content region, but it&amp;rsquo;s sized to fit.&lt;/p&gt;
 
@@ -651,9 +651,9 @@ Story also has out-of-the-box support for header and preview images, for a visua
 &lt;p&gt;Story uses &lt;a href=&#34;https://www.xaprb.com/blog/how-to-style-images-with-markdown/&#34;&gt;URL fragment
 techniques&lt;/a&gt; to
 give you control over image styling.
-Images that use this technique don&amp;rsquo;t get converted into &lt;a href=&#34;https://sittingduck.info/figures&#34;&gt;figures with captions&lt;/a&gt;.&lt;/p&gt;
+Images that use this technique don&amp;rsquo;t get converted into &lt;a href=&#34;/figures&#34;&gt;figures with captions&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://sittingduck.info/img/lily.jpg# fr&#34; alt=&#34;Small Lily&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/lily.jpg# fr&#34; alt=&#34;Small Lily&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;For example, you can float an image right with the &lt;code&gt;fr&lt;/code&gt; URL fragment:&lt;/p&gt;
 
@@ -664,11 +664,11 @@ Images that use this technique don&amp;rsquo;t get converted into &lt;a href=&#3
 CSS file; inspect the CSS or LESS source to see what styles you can attach to
 images.&lt;/p&gt;
 
-&lt;p&gt;If floated images interfere with headings, you can use &lt;a href=&#34;https://sittingduck.info/features&#34;&gt;heading clear feature flags&lt;/a&gt; to fix this.&lt;/p&gt;
+&lt;p&gt;If floated images interfere with headings, you can use &lt;a href=&#34;/features&#34;&gt;heading clear feature flags&lt;/a&gt; to fix this.&lt;/p&gt;
 
 &lt;h3 id=&#34;book-cover-mockups&#34;&gt;Book Cover Mockups&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/vHnVtLK8rCc&#34;&gt;&lt;img src=&#34;https://sittingduck.info/img/lily.jpg# 3dbook&#34; alt=&#34;Small Lily&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/vHnVtLK8rCc&#34;&gt;&lt;img src=&#34;/img/lily.jpg# 3dbook&#34; alt=&#34;Small Lily&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A book cover image that&amp;rsquo;s inside an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; link can be floated right and given
 a 3d look with the &lt;code&gt;3dbook&lt;/code&gt; URL fragment pseudo-class.&lt;/p&gt;
@@ -709,14 +709,14 @@ the &lt;code&gt;feature-nohdr&lt;/code&gt; feature. Set locally in a piece of co
 no header/banner image. Here&amp;rsquo;s an example of what a page looks like with and
 without the header image:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://sittingduck.info/img/page-header-formatting.png&#34; alt=&#34;A page in Story, with and without the header&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/page-header-formatting.png&#34; alt=&#34;A page in Story, with and without the header&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Set globally for the whole site, it will make the site simply ignore all header
 and preview images:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://sittingduck.info/img/site-header-formatting.png&#34; alt=&#34;A site in Story, with and without header and preview images&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/site-header-formatting.png&#34; alt=&#34;A site in Story, with and without header and preview images&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To illustrate this feature, the &lt;a href=&#34;https://sittingduck.info/search&#34;&gt;search page&lt;/a&gt; has this feature set, so
+&lt;p&gt;To illustrate this feature, the &lt;a href=&#34;/search&#34;&gt;search page&lt;/a&gt; has this feature set, so
 it has a plain, bannerless layout.&lt;/p&gt;
 
 &lt;h3 id=&#34;adding-depth-to-headers&#34;&gt;Adding Depth To Headers&lt;/h3&gt;
@@ -729,16 +729,16 @@ header image a bit, with rounded corners and a shadow around it.&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;feature-depth&lt;/code&gt; class can be set globally in your &lt;code&gt;config.yaml&lt;/code&gt; or similar,
 and overridden as you wish on individual pages.&lt;/p&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/search-page/&#34;&gt;Story&amp;rsquo;s built-in search features&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/search-page/&#34;&gt;Story&amp;rsquo;s built-in search features&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Story&#39;s JavaScript Search</title>
-			<link>https://sittingduck.info/search-page/</link>
+			<link>/search-page/</link>
 			<pubDate>Tue, 21 Aug 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/search-page/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/unsplash-photos-4zxSWESyZio.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/search-page/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/unsplash-photos-4zxSWESyZio.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;This article documents Story&amp;rsquo;s built-in search features, which don&amp;rsquo;t rely on external search engines.
 Story uses the &lt;a href=&#34;https://lunrjs.com/&#34;&gt;LunrJS&lt;/a&gt; library to provide fast browser-based search.
 This page first explains how search setup works, and then provides copy-paste
@@ -805,16 +805,16 @@ classes:
 &lt;p&gt;This illustrates an additional layout feature in Story:
 displaying it without a header image.&lt;/p&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/math/&#34;&gt;Story&amp;rsquo;s mathematical equation typesetting features&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/math/&#34;&gt;Story&amp;rsquo;s mathematical equation typesetting features&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Story&#39;s Music Notation</title>
-			<link>https://sittingduck.info/music/</link>
+			<link>/music/</link>
 			<pubDate>Mon, 20 Aug 2018 04:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/music/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/jordan-mixson-372435-unsplash.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/music/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/jordan-mixson-372435-unsplash.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;Story uses the &lt;a href=&#34;https://github.com/paulrosen/abcjs&#34;&gt;abcjs&lt;/a&gt; library to transform
 &lt;a href=&#34;https://www.abcnotation.com&#34;&gt;abc&lt;/a&gt; music notation into &amp;ldquo;sheet music&amp;rdquo; dynamically.
 This works well for displaying a wide variety of music notation in a web
@@ -871,16 +871,16 @@ EBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|
 eB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/typography/&#34;&gt;Story&amp;rsquo;s beautiful typography&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/typography/&#34;&gt;Story&amp;rsquo;s beautiful typography&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Story&#39;s Mathematical Equation Typesetting</title>
-			<link>https://sittingduck.info/math/</link>
+			<link>/math/</link>
 			<pubDate>Mon, 20 Aug 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/math/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/unsplash-photos-5mZ_M06Fc9g.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/math/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/unsplash-photos-5mZ_M06Fc9g.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s ability to typeset mathematical equations,
 both inline and in block form.&lt;/p&gt;
 
@@ -924,16 +924,16 @@ a_3x&amp;#43;b_3y&amp;#43;c_3z=d_3
 
 &lt;p&gt;Math typesetting is controlled with the &lt;code&gt;feature-[no]math&lt;/code&gt; flag.&lt;/p&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/music/&#34;&gt;Story&amp;rsquo;s music notation&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/music/&#34;&gt;Story&amp;rsquo;s music notation&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Story&#39;s Typography</title>
-			<link>https://sittingduck.info/typography/</link>
+			<link>/typography/</link>
 			<pubDate>Sun, 19 Aug 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/typography/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/unsplash-photos-h-M3O25tyvI.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/typography/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/unsplash-photos-h-M3O25tyvI.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s beautiful typography.&lt;/p&gt;
 
 &lt;p&gt;Story is designed to showcase long-form content such as essays and technical
@@ -954,7 +954,7 @@ be enabled or disabled with the &lt;code&gt;feature-[no]hyphenate&lt;/code&gt; a
 To hide subtitles, use the &lt;code&gt;feature-nosubtitle&lt;/code&gt; feature.&lt;/p&gt;
 
 &lt;p&gt;Floated images occasionally interfere with content, usually headings.
-Story provides &lt;a href=&#34;https://sittingduck.info/features&#34;&gt;feature flags&lt;/a&gt; to add clears (left, right, and both) to &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; elements.&lt;/p&gt;
+Story provides &lt;a href=&#34;/features&#34;&gt;feature flags&lt;/a&gt; to add clears (left, right, and both) to &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; elements.&lt;/p&gt;
 
 &lt;p&gt;Call me Ishmael. Some years ago&amp;mdash;never mind how long precisely&amp;mdash;having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off&amp;mdash;then, I account it high time to get to sea as soon as I can.&lt;/p&gt;
 
@@ -1040,7 +1040,7 @@ $( &#34;#dinkus&#34; ).click(function() {
 });
 &lt;/script&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/mailchimp-features&#34;&gt;Story&amp;rsquo;s MailChimp subscribe forms and RSS feeds&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;/mailchimp-features&#34;&gt;Story&amp;rsquo;s MailChimp subscribe forms and RSS feeds&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
@@ -1053,11 +1053,11 @@ $( &#34;#dinkus&#34; ).click(function() {
 		
 		<item>
 			<title>Story&#39;s MailChimp Integration Features</title>
-			<link>https://sittingduck.info/mailchimp-features/</link>
+			<link>/mailchimp-features/</link>
 			<pubDate>Sat, 18 Aug 2018 00:00:00 UTC</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/mailchimp-features/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/img/jessy-hoffmann-720198-unsplash.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/mailchimp-features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/img/jessy-hoffmann-720198-unsplash.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;If you&amp;rsquo;re a blogger, you might use MailChimp to build a subscriber list, and
 Story makes that easy. MailChimp also has the ability to automatically send your
 new content to the list from an RSS feed, and guess what&amp;mdash;Story helps you
@@ -1105,22 +1105,22 @@ outputs:
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Now Hugo will build an extra feed at
-&lt;a href=&#34;https://sittingduck.info/mailchimp/index.xml&#34;&gt;&lt;code&gt;/mailchimp/index.xml&lt;/code&gt;&lt;/a&gt;, and you can use it to create
+&lt;a href=&#34;/mailchimp/index.xml&#34;&gt;&lt;code&gt;/mailchimp/index.xml&lt;/code&gt;&lt;/a&gt;, and you can use it to create
 &lt;a href=&#34;https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/&#34;&gt;RSS campaigns in
 MailChimp&lt;/a&gt;. Of
 course, you can also use your normal RSS feed, but Story&amp;rsquo;s default is to put
 full content into that, so it might be more than you want.&lt;/p&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/talks/adirondack/&#34;&gt;Story&amp;rsquo;s &amp;lsquo;talks&amp;rsquo; feature for presentations&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/talks/adirondack/&#34;&gt;Story&amp;rsquo;s &amp;lsquo;talks&amp;rsquo; feature for presentations&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Creating Beautiful Presentations with Story</title>
-			<link>https://sittingduck.info/talks/adirondack/</link>
+			<link>/talks/adirondack/</link>
 			<pubDate>Tue, 08 May 2018 16:00:00 CDT</pubDate>
 			<author>Sitting Duck Info</author>
-			<guid>https://sittingduck.info/talks/adirondack/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://sittingduck.info/slides/adirondack/thumbnail.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<guid>/talks/adirondack/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="/slides/adirondack/thumbnail.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;This is a &amp;ldquo;talk&amp;rdquo; page in Story, which is the permanent homepage for a talk
 you&amp;rsquo;ve given at a specific event. It&amp;rsquo;s designed to showcase your appearance by
 bringing together information about the event, along with your slides and extra
@@ -1148,7 +1148,7 @@ duplicate content.&lt;/p&gt;
 
 &lt;p&gt;You can create a screenshot of the first slide (title and all) and store it
 in the slides directory, and use it as the &lt;code&gt;thumbnail&lt;/code&gt; of the talks page. That&amp;rsquo;s
-what I&amp;rsquo;ve done on this page; its preview image on the &lt;a href=&#34;https://sittingduck.info/talks/&#34;&gt;talks listing
+what I&amp;rsquo;ve done on this page; its preview image on the &lt;a href=&#34;/talks/&#34;&gt;talks listing
 page&lt;/a&gt; is different from the banner at the top of this page.&lt;/p&gt;
 
 &lt;p&gt;Front-matter content for a talks page can have quite a few items. Here&amp;rsquo;s a
@@ -1181,10 +1181,10 @@ $ hugo new slides/my-exciting-talk/index.md
 defaults are basically prepopulated for you, such as links between them.&lt;/p&gt;
 
 &lt;p&gt;Story supports &amp;ldquo;future talks,&amp;rdquo; meaning that you can post a talk with a future
-date, and it&amp;rsquo;ll appear only in the right places at the right times. See &lt;a href=&#34;https://sittingduck.info/talks/a-future-talk/&#34;&gt;future
+date, and it&amp;rsquo;ll appear only in the right places at the right times. See &lt;a href=&#34;/talks/a-future-talk/&#34;&gt;future
 talks&lt;/a&gt; for more on that.&lt;/p&gt;
 
-&lt;p&gt;Read next: &lt;a href=&#34;https://sittingduck.info/slides/adirondack/&#34;&gt;Story&amp;rsquo;s amazing Markdown-based presentation engine&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Read next: &lt;a href=&#34;/slides/adirondack/&#34;&gt;Story&amp;rsquo;s amazing Markdown-based presentation engine&lt;/a&gt;.&lt;/p&gt;</description>
 		</item>
 		
 	</channel>
